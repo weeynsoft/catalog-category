@@ -1,4 +1,4 @@
-# Weeyn Category Module
+# Weeyn Catalog Category Module
 Weeyn catalog category module
 
 ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/catalog-category/php)
@@ -7,7 +7,7 @@ Weeyn catalog category module
 ![GitHub](https://img.shields.io/github/license/weeynsoft/catalog-category)
 
 
-This is the standalone category module of the [Weeyn](https://weeyn.com).
+This is the standalone catalog category module of the [Weeyn](https://weeyn.com).
 
 ## Installation
 
